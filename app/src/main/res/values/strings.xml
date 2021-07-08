@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="questionTextPlaceHolder">Treść pytania</string>
+    <string name="answerTextPlaceHolder">Odpowiedź</string>
+</resources>
